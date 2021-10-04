@@ -1,8 +1,5 @@
 #include <iostream>
 #include "vector3d.h"
-
-
-
 int main() {
 
     vector3d vector_test = vector3d(3, 5, 9);
